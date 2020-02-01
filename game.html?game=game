@@ -1,0 +1,20 @@
+  
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Yeeter's Valley | Yeet Wars</title>
+    <meta charsest="UTF-8">
+    <link href="styles.css" type="text/css" rel="stylesheet">
+  <head>
+  <body>
+    <header>
+      <h1>Yeeter's Valley | Yeet Wars</h1>
+    </header>
+    <article>
+      <iframe src=%Request.QueryString("game")% width="750px" height="500px" frameBorder="0">Failed to load game. Try again?</iframe>
+    </article>
+    <footer>
+      <a href="https://www.playcanvas.com/dev01" style="color:#2f2efc;">DevPrime01</a>&nbsp;&nbsp;&nbsp;<a href="https://playcanvas.com/werdiegames-official" style="color:#9c74eb;">WerdieGames (OFFICIAL)</a>&nbsp;&nbsp;&nbsp;<a href="https://playcanvas.com/ytgames" style="color:#fe0000;">YettyGames</a>
+    </footer>
+  </body>
+</html>
